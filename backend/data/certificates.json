@@ -1,0 +1,168 @@
+{
+  "_meta": {
+    "version": "1.1.0",
+    "description": "Comprehensive real-world resource database for Agent 04 (Upskiller)",
+    "last_updated": "2024-06-18",
+    "source": "Curated from official documentation and recognized MOOCs"
+  },
+  "skills": {
+    "python": [
+      {
+        "title": "Python for Everybody Specialization",
+        "platform": "Coursera x University of Michigan",
+        "url": "https://www.coursera.org/specializations/python",
+        "duration": "2 months",
+        "level": "beginner",
+        "type": "certification",
+        "free": true
+      },
+      {
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+        "platform": "Udemy",
+        "url": "https://www.udemy.com/course/100-days-of-code/",
+        "duration": "60 hours",
+        "level": "intermediate",
+        "type": "course",
+        "free": false
+      },
+      {
+        "title": "Official Python 3 Documentation",
+        "platform": "Python Software Foundation",
+        "url": "https://docs.python.org/3/tutorial/",
+        "duration": "Self-paced",
+        "level": "advanced",
+        "type": "documentation",
+        "free": true
+      }
+    ],
+    "javascript": [
+      {
+        "title": "JavaScript Algorithms and Data Structures",
+        "platform": "freeCodeCamp",
+        "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/",
+        "duration": "300 hours",
+        "level": "beginner",
+        "type": "interactive",
+        "free": true
+      },
+      {
+        "title": "The Modern JavaScript Tutorial",
+        "platform": "javascript.info",
+        "url": "https://javascript.info/",
+        "duration": "Self-paced",
+        "level": "intermediate",
+        "type": "tutorial",
+        "free": true
+      },
+      {
+        "title": "MDN Web Docs: JavaScript Guide",
+        "platform": "Mozilla",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "duration": "Self-paced",
+        "level": "intermediate",
+        "type": "documentation",
+        "free": true
+      }
+    ],
+    "react": [
+      {
+        "title": "React.dev Quick Start",
+        "platform": "Meta / React Core Team",
+        "url": "https://react.dev/learn",
+        "duration": "10 hours",
+        "level": "beginner",
+        "type": "documentation",
+        "free": true
+      },
+      {
+        "title": "Full Stack Open - React",
+        "platform": "University of Helsinki",
+        "url": "https://fullstackopen.com/en/",
+        "duration": "120 hours",
+        "level": "intermediate",
+        "type": "course",
+        "free": true
+      }
+    ],
+    "java": [
+      {
+        "title": "Java Programming and Software Engineering Fundamentals",
+        "platform": "Coursera x Duke University",
+        "url": "https://www.coursera.org/specializations/java-programming",
+        "duration": "5 months",
+        "level": "beginner",
+        "type": "certification",
+        "free": true
+      },
+      {
+        "title": "Spring Boot 3, Spring 6 & Hibernate",
+        "platform": "Udemy",
+        "url": "https://www.udemy.com/course/spring-hibernate-tutorial/",
+        "duration": "37 hours",
+        "level": "advanced",
+        "type": "course",
+        "free": false
+      }
+    ],
+    "aws": [
+      {
+        "title": "AWS Cloud Practitioner Essentials",
+        "platform": "AWS Skill Builder",
+        "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials",
+        "duration": "6 hours",
+        "level": "beginner",
+        "type": "course",
+        "free": true
+      },
+      {
+        "title": "Ultimate AWS Certified Solutions Architect Associate",
+        "platform": "Udemy",
+        "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+        "duration": "27 hours",
+        "level": "intermediate",
+        "type": "course",
+        "free": false
+      }
+    ],
+    "docker": [
+      {
+        "title": "Docker for Beginners - Hands On",
+        "platform": "KodeKloud",
+        "url": "https://kodekloud.com/courses/docker-for-the-absolute-beginner/",
+        "duration": "5 hours",
+        "level": "beginner",
+        "type": "interactive",
+        "free": false
+      },
+      {
+        "title": "Docker Documentation - Get Started",
+        "platform": "Docker",
+        "url": "https://docs.docker.com/get-started/",
+        "duration": "2 hours",
+        "level": "beginner",
+        "type": "documentation",
+        "free": true
+      }
+    ],
+    "git": [
+      {
+        "title": "Pro Git Book",
+        "platform": "Git SCM",
+        "url": "https://git-scm.com/book/en/v2",
+        "duration": "Self-paced",
+        "level": "intermediate",
+        "type": "documentation",
+        "free": true
+      },
+      {
+        "title": "Learn Git Branching",
+        "platform": "Open Source",
+        "url": "https://learngitbranching.js.org/",
+        "duration": "4 hours",
+        "level": "beginner",
+        "type": "interactive",
+        "free": true
+      }
+    ]
+  }
+}
