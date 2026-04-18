@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "version": "1.0.0",
+    "description": "Hardcoded fallback responses when AI agents fail — prevents crashes",
+    "last_updated": "2026-04-18",
+    "agents_covered": ["agent_02_validator", "agent_03_drafter", "agent_04_upskiller"]
+  },
+  "match_fallback": {
+    "match_percentage": 65,
+    "verdict": "Good Match 🟡",
+    "matched_skills": ["python", "problem solving"],
+    "missing_skills": ["docker", "aws"],
+    "recommendations": [
+      "Consider adding Docker to your skillset for DevOps roles",
+      "AWS certifications can significantly boost your profile"
+    ],
+    "confidence": {
+      "level": "low",
+      "message": "This is an estimated match. Some features are temporarily unavailable.",
+      "is_fallback": true
+    },
+    "apply_now": true
+  },
+  "draft_fallback": {
+    "subject_line": "Application for [Position Title]",
+    "body": "Dear Hiring Team,\n\nI am writing to express my interest in this opportunity. My background includes relevant technical skills and hands-on project experience that align well with your requirements.\n\nI am confident in my ability to contribute meaningfully to your team and would welcome the chance to discuss how my experience can support your goals.\n\nBest regards,\n[Your Name]",
+    "tone": "professional",
+    "word_count": 55,
+    "confidence": {
+      "level": "low",
+      "message": "This is a generic draft. Personalized drafts require AI processing.",
+      "is_fallback": true
+    }
+  },
+  "learning_path_fallback": {
+    "items": [
+      {
+        "title": "Improve Your Skills",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org",
+        "duration": "4 weeks",
+        "level": "beginner",
+        "type": "course",
+        "free": true
+      },
+      {
+        "title": "Practice Coding Challenges",
+        "platform": "freeCodeCamp",
+        "url": "https://www.freecodecamp.org",
+        "duration": "Self-paced",
+        "level": "beginner",
+        "type": "interactive",
+        "free": true
+      },
+      {
+        "title": "Build Portfolio Projects",
+        "platform": "The Odin Project",
+        "url": "https://www.theodinproject.com",
+        "duration": "Self-paced",
+        "level": "beginner",
+        "type": "course",
+        "free": true
+      }
+    ],
+    "confidence": {
+      "level": "low",
+      "message": "This is a generic learning path. Personalized paths require AI processing.",
+      "is_fallback": true
+    }
+  },
+  "error_messages": {
+    "agent_timeout": "Our AI agents are taking longer than expected. Showing cached results.",
+    "api_failure": "We're experiencing connectivity issues. Showing pre-loaded data.",
+    "rate_limited": "We've hit our request limit. Please try again in a few minutes.",
+    "unknown": "Something went wrong. Showing default recommendations."
+  }
+}

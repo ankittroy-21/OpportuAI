@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "version": "1.0.0",
+    "description": "Static fallback hackathon list for Agent 01 (Scraper)",
+    "last_updated": "2026-04-18",
+    "total_entries": 5
+  },
+  "hackathons": [
+    {
+      "id": "hackmit-2026",
+      "name": "HackMIT 2026",
+      "organizer": "MIT",
+      "url": "https://hackmit.org",
+      "date": "September 2026",
+      "mode": "hybrid",
+      "eligibility": "university students",
+      "tags": ["general", "ai", "web", "mobile"],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "mlh-fellowship",
+      "name": "MLH Fellowship",
+      "organizer": "Major League Hacking",
+      "url": "https://fellowship.mlh.io",
+      "date": "Rolling",
+      "mode": "remote",
+      "eligibility": "open to all",
+      "tags": ["open-source", "software-engineering", "mentorship"],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "ethglobal-2026",
+      "name": "ETHGlobal Hackathons",
+      "organizer": "ETHGlobal",
+      "url": "https://ethglobal.com",
+      "date": "Multiple dates",
+      "mode": "hybrid",
+      "eligibility": "open to all",
+      "tags": ["blockchain", "web3", "defi", "smart-contracts"],
+      "difficulty": "advanced"
+    },
+    {
+      "id": "devpost-hackathons",
+      "name": "Devpost Hackathon Listings",
+      "organizer": "Devpost",
+      "url": "https://devpost.com/hackathons",
+      "date": "Ongoing",
+      "mode": "mixed",
+      "eligibility": "varies per hackathon",
+      "tags": ["general", "ai", "web", "data-science"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "google-solution-challenge",
+      "name": "Google Solution Challenge",
+      "organizer": "Google Developer Student Clubs",
+      "url": "https://developers.google.com/community/gdsc-solution-challenge",
+      "date": "Annual (Q1)",
+      "mode": "remote",
+      "eligibility": "university students (GDSC members)",
+      "tags": ["social-impact", "google-tech", "mobile", "web"],
+      "difficulty": "intermediate"
+    }
+  ]
+}

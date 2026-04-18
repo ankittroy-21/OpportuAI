@@ -1,0 +1,145 @@
+{
+  "_meta": {
+    "version": "1.0.0",
+    "description": "Skill-to-resource lookup table for Agent 04 (Upskiller)",
+    "last_updated": "2026-04-18",
+    "schema": {
+      "title": "string — Course/resource name",
+      "platform": "string — Host platform",
+      "url": "string — Direct link",
+      "duration": "string — Estimated completion time",
+      "level": "string — beginner | intermediate | advanced",
+      "type": "string — course | tutorial | documentation | interactive",
+      "free": "boolean"
+    }
+  },
+  "skills": {
+    "python": [
+      {
+        "title": "Python for Everybody Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/python",
+        "duration": "2 months",
+        "level": "beginner",
+        "type": "course",
+        "free": true
+      },
+      {
+        "title": "Learn Python 3",
+        "platform": "Codecademy",
+        "url": "https://www.codecademy.com/learn/learn-python-3",
+        "duration": "25 hours",
+        "level": "beginner",
+        "type": "interactive",
+        "free": true
+      },
+      {
+        "title": "Python Official Tutorial",
+        "platform": "Python Docs",
+        "url": "https://docs.python.org/3/tutorial/",
+        "duration": "10 hours",
+        "level": "beginner",
+        "type": "documentation",
+        "free": true
+      }
+    ],
+    "javascript": [
+      {
+        "title": "JavaScript Algorithms and Data Structures",
+        "platform": "freeCodeCamp",
+        "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+        "duration": "300 hours",
+        "level": "beginner",
+        "type": "interactive",
+        "free": true
+      },
+      {
+        "title": "The Modern JavaScript Tutorial",
+        "platform": "javascript.info",
+        "url": "https://javascript.info/",
+        "duration": "Self-paced",
+        "level": "intermediate",
+        "type": "tutorial",
+        "free": true
+      },
+      {
+        "title": "MDN JavaScript Guide",
+        "platform": "MDN Web Docs",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "duration": "15 hours",
+        "level": "beginner",
+        "type": "documentation",
+        "free": true
+      }
+    ],
+    "react": [
+      {
+        "title": "React Official Tutorial",
+        "platform": "React Docs",
+        "url": "https://react.dev/learn",
+        "duration": "10 hours",
+        "level": "beginner",
+        "type": "documentation",
+        "free": true
+      },
+      {
+        "title": "Front End Development Libraries",
+        "platform": "freeCodeCamp",
+        "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+        "duration": "300 hours",
+        "level": "intermediate",
+        "type": "interactive",
+        "free": true
+      }
+    ],
+    "docker": [
+      {
+        "title": "Docker Get Started Guide",
+        "platform": "Docker Docs",
+        "url": "https://docs.docker.com/get-started/",
+        "duration": "2 hours",
+        "level": "beginner",
+        "type": "documentation",
+        "free": true
+      },
+      {
+        "title": "Docker Curriculum",
+        "platform": "docker-curriculum.com",
+        "url": "https://docker-curriculum.com/",
+        "duration": "4 hours",
+        "level": "beginner",
+        "type": "tutorial",
+        "free": true
+      }
+    ],
+    "sql": [
+      {
+        "title": "SQL Tutorial",
+        "platform": "W3Schools",
+        "url": "https://www.w3schools.com/sql/",
+        "duration": "10 hours",
+        "level": "beginner",
+        "type": "tutorial",
+        "free": true
+      },
+      {
+        "title": "Relational Database Certification",
+        "platform": "freeCodeCamp",
+        "url": "https://www.freecodecamp.org/learn/relational-database/",
+        "duration": "300 hours",
+        "level": "intermediate",
+        "type": "interactive",
+        "free": true
+      },
+      {
+        "title": "SQLBolt Interactive Lessons",
+        "platform": "SQLBolt",
+        "url": "https://sqlbolt.com/",
+        "duration": "5 hours",
+        "level": "beginner",
+        "type": "interactive",
+        "free": true
+      }
+    ]
+  }
+}
