@@ -1,0 +1,195 @@
+{
+  "skills": {
+    "python": [
+      {
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/python",
+        "duration": "2 months",
+        "free": true
+      },
+      {
+        "title": "Learn Python",
+        "platform": "Codecademy",
+        "url": "https://www.codecademy.com/learn/learn-python-3",
+        "duration": "25 hours",
+        "free": true
+      },
+      {
+        "title": "Learn Python - Full Course for Beginners [freeCodeCamp]",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+        "duration": "4 hours",
+        "free": true
+      },
+      {
+        "title": "Python Tutorial for Beginners [Corey Schafer]",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8",
+        "duration": "6 hours",
+        "free": true
+      }
+    ],
+    "javascript": [
+      {
+        "title": "JavaScript Algorithms and Data Structures",
+        "platform": "freeCodeCamp",
+        "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+        "duration": "300 hours",
+        "free": true
+      },
+      {
+        "title": "JavaScript Full Course for Beginners",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+        "duration": "3 hours",
+        "free": true
+      },
+      {
+        "title": "JavaScript Crash Course [Traversy Media]",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+        "duration": "1.5 hours",
+        "free": true
+      }
+    ],
+    "react": [
+      {
+        "title": "React Tutorial",
+        "platform": "React Docs",
+        "url": "https://react.dev/learn",
+        "duration": "10 hours",
+        "free": true
+      },
+      {
+        "title": "React JS Full Course for Beginners",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+        "duration": "6 hours",
+        "free": true
+      }
+    ],
+    "docker": [
+      {
+        "title": "Docker for Beginners",
+        "platform": "Docker Docs",
+        "url": "https://docs.docker.com/get-started/",
+        "duration": "2 hours",
+        "free": true
+      },
+      {
+        "title": "Docker Tutorial for Beginners",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+        "duration": "2 hours",
+        "free": true
+      }
+    ],
+    "sql": [
+      {
+        "title": "SQL Tutorial",
+        "platform": "W3Schools",
+        "url": "https://www.w3schools.com/sql/",
+        "duration": "10 hours",
+        "free": true
+      },
+      {
+        "title": "SQL Tutorial - Full Database Course",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+        "duration": "4 hours",
+        "free": true
+      }
+    ],
+    "git": [
+      {
+        "title": "Git and GitHub for Beginners - Crash Course",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+        "duration": "1 hour",
+        "free": true
+      }
+    ],
+    "aws": [
+      {
+        "title": "AWS Certified Cloud Practitioner [Free]",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=k1RI5locZE4",
+        "duration": "12 hours",
+        "free": true
+      }
+    ],
+    "flask": [
+      {
+        "title": "Flask Tutorial Series [Corey Schafer]",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU",
+        "duration": "4 hours",
+        "free": true
+      }
+    ],
+    "django": [
+      {
+        "title": "Django for Everybody",
+        "platform": "Coursera (Audit Free)",
+        "url": "https://www.coursera.org/specializations/django",
+        "duration": "4 weeks",
+        "free": true
+      }
+    ],
+    "node.js": [
+      {
+        "title": "Node.js and Express Full Course",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=Oe421EPjeBE",
+        "duration": "8 hours",
+        "free": true
+      }
+    ],
+    "typescript": [
+      {
+        "title": "TypeScript Full Course for Beginners",
+        "platform": "freeCodeCamp YouTube",
+        "url": "https://www.youtube.com/watch?v=SpwzRDUQ1GI",
+        "duration": "2 hours",
+        "free": true
+      }
+    ],
+    "machine learning": [
+      {
+        "title": "Machine Learning by Andrew Ng",
+        "platform": "Coursera (Audit Free)",
+        "url": "https://www.coursera.org/learn/machine-learning",
+        "duration": "11 weeks",
+        "free": true
+      }
+    ],
+    "data analysis": [
+      {
+        "title": "Google Data Analytics Professional Certificate",
+        "platform": "Coursera (Audit Free)",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+        "duration": "6 months",
+        "free": true
+      }
+    ],
+    "communication": [
+      {
+        "title": "Effective Communication for Engineers",
+        "platform": "Coursera (Audit Free)",
+        "url": "https://www.coursera.org/learn/wharton-communication-skills",
+        "duration": "4 weeks",
+        "free": true
+      }
+    ],
+    "problem solving": [
+      {
+        "title": "Creative Problem Solving",
+        "platform": "Coursera (Audit Free)",
+        "url": "https://www.coursera.org/learn/creative-problem-solving",
+        "duration": "7 hours",
+        "free": true
+      }
+    ]
+  }
+}

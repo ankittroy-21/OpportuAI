@@ -1,0 +1,16 @@
+{
+  "hackathons": [
+    {
+      "name": "HackMIT 2026",
+      "url": "https://hackmit.org",
+      "date": "September 2026",
+      "mode": "hybrid"
+    },
+    {
+      "name": "MLH Fellowship",
+      "url": "https://fellowship.mlh.io",
+      "date": "Rolling",
+      "mode": "remote"
+    }
+  ]
+}

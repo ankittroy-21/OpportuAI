@@ -79,3 +79,8 @@ backend/celerybeat.pid
 # Fallback Data and Local DBs (Just in case, though using PostgreSQL)
 *.sqlite3
 backend/.env
+
+# Personal notes and temporary files
+Git_commands.md
+new_command
+Repo_growth.md

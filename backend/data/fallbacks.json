@@ -1,0 +1,34 @@
+{
+  "match_fallback": {
+    "match_percentage": 65,
+    "verdict": "Good Match 🟡",
+    "matched_skills": ["python", "problem solving"],
+    "missing_skills": ["docker", "aws"],
+    "confidence_message": "This is an estimated match. Some features are temporarily unavailable.",
+    "apply_now": true
+  },
+  "draft_fallback": "Dear Hiring Team,\n\nI am writing to express my interest in this opportunity. My background includes relevant skills and I'm eager to contribute.\n\nBest regards,\n[Your Name]",
+  "learning_path_fallback": [
+    {
+      "title": "Improve Your Skills",
+      "platform": "Coursera",
+      "url": "https://www.coursera.org",
+      "duration": "4 weeks",
+      "free": true
+    },
+    {
+      "title": "Practice Coding",
+      "platform": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org",
+      "duration": "Self-paced",
+      "free": true
+    },
+    {
+      "title": "Build a Project",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com",
+      "duration": "2 hours",
+      "free": true
+    }
+  ]
+}
