@@ -8,15 +8,25 @@
 .idea/
 *.swp
 *.swo
+/venv
 
 # =========================
 # ENVIRONMENT VARIABLES
 # =========================
 # Strict Rule 9: .env never pushed to GitHub (.env.example will still be tracked)
-.env
-.env.*
-!.env.example
-*.local
+venv/
+.venv/
+env/
+ENV/
+*/venv/
+*/.venv/
+*/env/
+*/ENV/
+backend/venv/
+backend/env
+backend/.venv/
+backend/Scripts/
+backend/bin/
 
 # =========================
 # FRONTEND (Next.js & Node)
@@ -54,6 +64,7 @@ backend/__pycache__/
 *.py[cod]
 *$py.class
 
+
 # Testing and Profiling
 backend/.pytest_cache/
 backend/htmlcov/
@@ -67,3 +78,9 @@ backend/celerybeat.pid
 
 # Fallback Data and Local DBs (Just in case, though using PostgreSQL)
 *.sqlite3
+backend/.env
+
+# Personal notes and temporary files
+Git_commands.md
+new_command
+Repo_growth.md
